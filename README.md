@@ -1,4 +1,4 @@
-
+# THIS IS NOT COMPLETE! DO NOT USE!
 ## SoftDevelop
 A shell script that installs software developments tools. I created this tool because I was bored and needed something to automate my installations. What a great way to build software to do this.
 
